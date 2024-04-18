@@ -50,7 +50,7 @@ export default siteConfig({
 
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
-  // navigationStyle: 'default'
+  // navigationStyle: 'default' // This is by default nav bar and to add our own use custom
   navigationStyle: 'custom',
   navigationLinks: [
     {
