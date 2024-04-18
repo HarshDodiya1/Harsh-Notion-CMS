@@ -1,7 +1,7 @@
 import * as React from 'react'
 
 import cs from 'classnames'
-import { FaInstagram } from 'react-icons/fa'
+// import { FaInstagram } from 'react-icons/fa'
 
 import * as config from '@/lib/config'
 
