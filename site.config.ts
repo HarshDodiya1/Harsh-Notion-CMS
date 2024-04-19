@@ -53,10 +53,10 @@ export default siteConfig({
   // navigationStyle: 'default' // This is by default nav bar and to add our own use custom
   navigationStyle: 'custom',
   navigationLinks: [
-    {
-      title: 'Notes',
-      pageId: '3b211a4b798d4ea485912297c3c9f0f7'  
-    },
+    // {
+    //   title: 'Notes',
+    //   pageId: '3b211a4b798d4ea485912297c3c9f0f7'  
+    // },
     {
       title: 'About',
       pageId: '5db663b80a534551a58874f405778b1c'
