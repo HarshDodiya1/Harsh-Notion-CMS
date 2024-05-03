@@ -1,9 +1,9 @@
 {
-  "name": "nextjs-notion-starter-kit",
+  "name": "harsh-s-notion-cms",
   "version": "2.0.0",
   "private": true,
-  "description": "The perfect starter kit for building beautiful websites with Next.js and Notion.",
-  "author": "Travis Fischer <travis@transitivebullsh.it>",
+  "description": "Complete website created with Next.js and Notion.",
+  "author": "Harsh Dodiya <dodiyaharsh999@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": ">=16"
