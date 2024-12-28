@@ -1,3 +1,4 @@
+import * as React from 'react'
 import { GetStaticProps } from 'next'
 
 import { NotionPage } from '@/components/NotionPage'

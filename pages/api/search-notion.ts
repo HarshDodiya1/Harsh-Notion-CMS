@@ -1,5 +1,4 @@
 import { NextApiRequest, NextApiResponse } from 'next'
-
 import { search } from '../../lib/notion'
 import * as types from '../../lib/types'
 
