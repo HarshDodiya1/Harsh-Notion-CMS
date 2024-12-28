@@ -10,7 +10,7 @@ export function bootstrap() {
     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
                                             
   Whatever you're finding can be availble here.
-  LinkedIn => https://shorturl.at/vCKMZ
+  LinkedIn => https://www.linkedin.com/in/dodiya-harsh/
                                                                                              
 `)
 }
